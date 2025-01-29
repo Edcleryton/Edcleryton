@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @Edcleryton
+# 👋 Hi, I'm Edcleryton Silva
 
 **👀 Interests**:  
 Sou apaixonado por testes de software, automação de processos e tudo que envolve qualidade e melhoria contínua.
