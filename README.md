@@ -1,23 +1,37 @@
-# 👋 Olá, sou Edcleryton Silva (Eddie)
+# 👋 Olá! Eu sou Edcleryton Silva (ou Eddie)
 
-**👀 Interests**:  
-Sou apaixonado por testes de software, automação de processos e tudo que envolve qualidade e melhoria contínua.
+Sou apaixonado por **qualidade de software**, com foco especial em **testes automatizados**, **processos de melhoria contínua** e **automação**. Sempre em busca de conhecimento e maneiras de tornar o desenvolvimento de software mais eficiente, confiável e sustentável.
 
-**🌱 Atualmente aprendendo**:  
-- Robot Framework  
-- Aprofundando em testes de API e CI/CD
+---
 
-**💞️ Busco colaborar em**:  
-Projetos que precisem de melhorias em testes automatizados, ferramentas para QA ou qualquer iniciativa que foque na entrega de software de qualidade.
+## 👀 Interesses
+- Testes de software (manuais e automatizados)
+- Qualidade de código e processos
+- Integração contínua (CI/CD)
+- Ferramentas para QA
 
-**📫 Como entrar em contato**:  
-- [LinkedIn](https://www.linkedin.com/in/edcleryton-silva/)  
-- [E-mail](mailto:edcleryton.gabriel@gmail.com)
+## 🌱 Em aprendizado contínuo
+Atualmente me aprofundando em:
+- **Robot Framework**
+- **Testes de API**
+- **Integração e entrega contínua (CI/CD)**  
+> Já aprendi: **Python** e **Selenium**
 
-**😄 Pronomes**: Ele/Dele
+## 💡 Onde posso ajudar?
+Busco colaborar em:
+- Projetos que necessitem de **melhoria em testes automatizados**
+- Criação de **frameworks e ferramentas para QA**
+- Iniciativas que priorizem a **entrega de software de qualidade**
 
-**⚡ Curiosidade**:  
-Adoro ler a mangá e HQ's e sempre busco aprender algo novo para aprimorar minhas habilidades de QA!
+## 📫 Contato
+- [📩 E-mail](mailto:edcleryton.gabriel@gmail.com)  
+- [🔗 LinkedIn](https://www.linkedin.com/in/edcleryton-silva/)
+
+## 😄 Pronomes
+**Ele/Dele**
+
+## ⚡ Curiosidade
+Sou fã de **mangás e HQs**, e adoro explorar novos conhecimentos para aprimorar minhas habilidades como QA!
 
 ---
 
