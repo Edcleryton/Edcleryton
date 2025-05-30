@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Edcleryton Silva (ou Eddie)
+# 👋 Olá! Eu sou Edcleryton Silva (Eddie)
 
 Sou apaixonado por **qualidade de software**, com foco especial em **testes automatizados**, **processos de melhoria contínua** e **automação**. Sempre em busca de conhecimento e maneiras de tornar o desenvolvimento de software mais eficiente, confiável e sustentável.
 
