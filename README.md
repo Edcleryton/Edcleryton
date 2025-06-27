@@ -18,8 +18,8 @@
   </p>
     
    <p>
-    <a href="[Link do LinkedIn]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="[Link do Twitter ou outra rede]" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F1?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+    <a href="https://www.linkedin.com/in/edcleryton-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:edcleryton.gabriel@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
    </p>
 
 </div>
@@ -63,10 +63,8 @@
   
   <br/>
   
-  Iniciei minha jornada na área de tecnologia com um foco sólido em **Python**, utilizando-o para desenvolver scripts e automações robustas. Minha paixão pela qualidade de software me levou a me aprofundar em um ecossistema completo de testes.
+  Iniciei minha transição de carreira para a área de tecnologia no final de 2023, com um curso de **Introdução a Testes de Software** que despertou minha paixão pela área de Qualidade (QA).
   
-  Hoje, trabalho com ferramentas essenciais para o ciclo de vida de desenvolvimento e testes, como **Jira**, **Trello** e **Asana** para gestão de projetos, e **Postman**, **Newman**, **Insomnia**, **Grafana** e **K6** para testes de API e performance.
-  
-  Adotei as práticas de **BDD (Behavior-Driven Development)**, escrevendo cenários claros e objetivos com **Gherkin** e **Cucumber**. Atualmente, estou expandindo minhas habilidades em testes de front-end, aprendendo **JavaScript** e **Cypress** para criar automações de interface de usuário eficientes e confiáveis.
+  Desde então, venho me dedicando continuamente aos estudos para aprimorar minhas habilidades técnicas. Mergulhei em **Python** para automação de testes de API e, atualmente, estou expandindo meus conhecimentos em **JavaScript** e **Cypress** para testes de front-end. Meu objetivo é dominar as ferramentas e práticas mais modernas para garantir a entrega de software de alta qualidade.
 
 </details>
