@@ -1,12 +1,13 @@
 <div align="center">
   
   <h1>Edcleryton Silva (Eddie)</h1>
-  <code>[Seu Título/Slogan: Ex: QA Engineer | Apaixonado por Automação de Testes | Pythonista]</code>
+  <code>QA Tester | Foco em Qualidade de Software | Experiência com Testes Manuais e Automatizados</code>
   
   <br/>
   <br/>
   
-  <p>[Sua Biografia Curta: Escreva um ou dois parágrafos sobre sua paixão por qualidade de software, sua experiência com testes manuais e automatizados, e seus objetivos de carreira.]</p>
+  <p>Sou apaixonado por qualidade de software e pelo impacto que ela gera na experiência do usuário. Tenho experiência prática com testes manuais e automatizados, utilizando ferramentas como Postman, Selenium IDE, Cucumber, Gherkin e Python. Também possuo familiaridade com ferramentas de performance como JMeter e K6, além de boas práticas com Git, GitHub, VSCode, Scrum, Kanban, Jira, Trello e Qase.<br>
+  Meu objetivo é crescer como profissional de QA e me tornar um especialista na área, aprimorando minhas habilidades em automação e contribuindo com a entrega de soluções cada vez mais confiáveis e eficientes. Acredito no trabalho em equipe, na melhoria contínua e no aprendizado constante como base para evoluir na área.</p>
   
   <p>
     <a href="https://github.com/edcleryton?tab=followers">
@@ -31,16 +32,21 @@
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="margin: 5px;">
   <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin: 5px;">
+  <br>
+  <img align="center" alt="Selenium" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" style="margin: 5px;">
   <img align="center" alt="Cypress" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" style="margin: 5px;">
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin: 5px;">
+  <img align="center" alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="margin: 5px;" />
+  <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="margin: 5px;" />
   <img align="center" alt="Jira" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="margin: 5px;" />
   <img align="center" alt="Trello" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" style="margin: 5px;" />
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin: 5px;">
   
   <br/>
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
-  <img src="https://img.shields.io/badge/-Cucumber-23BE23?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber">
-  <img src="https://img.shields.io/badge/-Gherkin-00A99D?style=for-the-badge&logo=gherkin&logoColor=white" alt="Gherkin">
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-K6-8556ff?style=for-the-badge&logo=k6&logoColor=white" alt="K6" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-Cucumber-23BE23?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-Gherkin-00A99D?style=for-the-badge&logo=gherkin&logoColor=white" alt="Gherkin" style="margin: 5px;">
 
 </div>
 
