@@ -43,9 +43,7 @@ Python, JavaScript, Selenium, Cypress, Postman, JMeter, K6, Cucumber, Gherkin, G
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](./stats.svg)
-
-*Estatísticas atualizadas automaticamente via GitHub Actions.*
+![Edcleryton's GitHub stats](https://github-readme-stats.vercel.app/api?username=edcleryton&show_icons=true&theme=gruvbox)
 
 ---
 
