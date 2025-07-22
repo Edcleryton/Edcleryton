@@ -1,3 +1,40 @@
+# ==========================================================
+# Edcleryton Gabriel da Silva - QA Tester
+# Contato: edcleryton.gabriel@gmail.com | LinkedIn: https://www.linkedin.com/in/edcleryton-silva | GitHub: https://github.com/Edcleryton
+#
+# Sobre mim:
+#   Apaixonado por qualidade de software, automação de testes e pelo impacto positivo da tecnologia na experiência do usuário.
+#   Atuo com testes manuais e automatizados, APIs e ferramentas modernas de QA, sempre buscando evolução contínua e entregas confiáveis.
+#
+# Competências Técnicas:
+#   - Cypress (em estudo), Selenium, Python
+#   - Postman, APIs REST/SOAP, JSON
+#   - GitHub Actions, Git, GitHub
+#   - Jira, Trello
+#   - Node.js, JavaScript, HTML, CSS
+#   - SQL
+#
+# Principais Projetos:
+#   - Automação de Testes com Cypress: Testes E2E de uma aplicação React.
+#   - Automação Selenium + Python: Scripts de automação web.
+#   - Testes de Performance com K6: Scripts de carga e performance.
+#
+# Certificações & Cursos:
+#   - Postman API Fundamentals – Postman Academy
+#   - Automação de Testes com Selenium – Udemy
+#   - Acredited Software Testing Fundamentals – AICS®
+#   - Scrum Foundation – CertiProf
+#
+# Jornada & Destaques:
+#   - Implantação de automação de testes com Selenium + Python
+#   - Redução de bugs em produção em 30% em projeto real
+#   - Participação ativa em squads ágeis e cerimônias Scrum
+#   - Experiência com testes manuais, APIs e automação
+#   - Colaboração direta com desenvolvedores e áreas de negócio
+#
+# Idiomas: Português (nativo), Inglês (intermediário), Alemão (básico)
+# ==========================================================
+
 name: Generate GitHub Stats
 
 on:
@@ -9,7 +46,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate GitHub Stats
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Stats SVG
         uses: anuraghazra/github-readme-stats@master
         with:
           token: ${{ secrets.GH_TOKEN }}
@@ -18,3 +58,12 @@ jobs:
           include_all_commits: true
           show_icons: true
           theme: gruvbox
+          output: stats.svg
+
+      - name: Commit and push stats.svg
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add stats.svg
+          git commit -m 'chore: update GitHub stats [auto]' || echo "No changes to commit"
+          git push 
