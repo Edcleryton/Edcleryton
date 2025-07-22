@@ -35,6 +35,14 @@ Sou apaixonado por qualidade de software, automação de testes e pelo impacto p
 
 ---
 
+### 📸 Exemplos Visuais
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2J6d3Z2b2Z2d3F2b2J6d3Z2b2Z2d3F2/giphy.gif" alt="Exemplo de automação de testes" width="400"/>
+</p>
+
+---
+
 ### 🧰 Tecnologias e Ferramentas
 
 <div align="center" style="display: inline_block"><br>
@@ -58,36 +66,6 @@ Sou apaixonado por qualidade de software, automação de testes e pelo impacto p
 
 ---
 
-### 🏅 Certificações & Cursos
-
-- [Postman API Fundamentals – Postman Academy](https://learning.postman.com/certification/)
-- [Automação de Testes com Selenium – Udemy](https://www.udemy.com/course/selenium-webdriver-com-python/)
-- [Acredited Software Testing Fundamentals – AICS®](https://aics.education/)
-- Qualidade de Software Básico e Avançado – Instituto Joga Junto
-- SQL – Curso em Vídeo
-- Scrum Foundation – CertiProf
-- Metodologias Ágeis – Digital Innovation One
-
----
-
-### 🚀 Jornada & Destaques
-
-- Implantação de automação de testes com Selenium + Python
-- Redução de bugs em produção em 30% em projeto real
-- Participação ativa em squads ágeis e cerimônias Scrum
-- Experiência com testes manuais, APIs e automação
-- Colaboração direta com desenvolvedores e áreas de negócio
-
----
-
-### 🌍 Idiomas
-
-- Português: nativo
-- Inglês: intermediário
-- Alemão: básico
-
----
-
 ### 📫 Contato
 
 <p align="center">
@@ -103,9 +81,6 @@ Sou apaixonado por qualidade de software, automação de testes e pelo impacto p
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <a href="https://github.com/edcleryton">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edcleryton&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edcleryton&layout=compact&langs_count=7&theme=gruvbox" alt="Linguagens mais usadas"/>
-  </a>
-</div>
+<p align="center">
+  <img src="./stats.svg" alt="Estatísticas do GitHub"/>
+</p>
