@@ -70,7 +70,7 @@
   
   <br/>
 
-  Minha jornada na tecnologia começou com suporte de TI, onde aprendi na prática sobre estabilidade de sistemas, atendimento a usuários e resolução de problemas reais. Isso me deu uma base sólida pra olhar além do código e pensar sempre na experiência do usuário.
+Minha jornada na tecnologia começou com suporte de TI, onde aprendi na prática sobre estabilidade de sistemas, atendimento a usuários e resolução de problemas reais. Isso me deu uma base sólida pra olhar além do código e pensar sempre na experiência do usuário.
 
 Em 2023, mergulhei de vez na área de Qualidade de Software. Fiz cursos, entrei em projetos freelancer e comecei a aplicar na prática testes manuais, testes de API com Postman, automações com Selenium + Python, além do uso de ferramentas como Qase, Trello e Jira.
 
