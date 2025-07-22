@@ -12,7 +12,7 @@
 
 ### 📝 Sobre mim
 
-Sou apaixonado por qualidade de software, automação de testes e pelo impacto positivo que a tecnologia pode gerar na experiência do usuário. Atuo com testes manuais e automatizados, APIs e ferramentas modernas de QA, sempre buscando evolução contínua e entregas confiáveis.
+Sou apaixonado por qualidade de software, automação de testes e pelo impacto positivo que a tecnologia pode gerar na experiência do usuário. Tenho experiência prática em ambientes ágeis (Scrum, Kanban), atuando com testes manuais, automação, APIs e colaboração direta com desenvolvedores, sempre buscando evolução contínua e entregas confiáveis.
 
 ---
 
@@ -23,23 +23,45 @@ Sou apaixonado por qualidade de software, automação de testes e pelo impacto p
 - GitHub Actions, Git, GitHub
 - Jira, Trello
 - Node.js, JavaScript, HTML, CSS
+- Swagger, AWS
 - SQL
 
 ---
 
-### 🚀 Principais Projetos
+### 🚀 Projetos em Destaque
 
-- [Automação de Testes com Cypress](https://github.com/edcleryton/cypress-exemplo): Testes E2E de uma aplicação React.
-- [Automação Selenium + Python](https://github.com/edcleryton/selenium-exemplo): Scripts de automação web.
-- [Testes de Performance com K6](https://github.com/edcleryton/k6-exemplo): Scripts de carga e performance.
+- [IJJ_PROJETO_FINAL_DE_CURSO](https://github.com/Edcleryton/IJJ_PROJETO_FINAL_DE_CURSO): Projeto final QA Avançado para garantir qualidade do sistema de estoque do Instituto Joga Junto. Testes manuais e automatizados (Selenium) validam cadastro restrito a admins, filtragem de produtos e atualização em tempo real.
+- [IJJ_TRABALHO_FINAL_PYTHON](https://github.com/Edcleryton/IJJ_TRABALHO_FINAL_PYTHON): Projeto de automação de testes e scripts em Python, com foco em boas práticas e integração contínua.
+- [mentoria_testes_desafio_03](https://github.com/Edcleryton/mentoria_testes_desafio_03): Desafio de mentoria em testes, com exemplos de automação, documentação e análise de bugs.
 
 ---
 
-### 📸 Exemplos Visuais
+### 🏅 Certificações & Cursos
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2J6d3Z2b2Z2d3F2b2J6d3Z2b2Z2d3F2/giphy.gif" alt="Exemplo de automação de testes" width="400"/>
-</p>
+- Postman API Fundamentals – Postman Academy
+- Automação de Testes com Selenium – Udemy
+- Acredited Software Testing Fundamentals – AICS®
+- Scrum Foundation – CertiProf
+
+---
+
+### 🚀 Jornada & Destaques
+
+- Implantação de automação de testes com Selenium + Python
+- Redução de bugs em produção em 30% em projeto real
+- Participação ativa em squads ágeis e cerimônias Scrum
+- Experiência com testes manuais, APIs e automação
+- Colaboração direta com desenvolvedores e áreas de negócio
+- Aumento de 22% na quantidade de chamados solucionados em suporte de TI
+- Vivência com automação de pipelines em GitHub Actions
+
+---
+
+### 🌍 Idiomas
+
+- Português: nativo
+- Inglês: intermediário (leitura técnica, escrita e fala básicas)
+- Alemão: básico (leitura, escrita e fala básicas)
 
 ---
 
@@ -84,3 +106,5 @@ Sou apaixonado por qualidade de software, automação de testes e pelo impacto p
 <p align="center">
   <img src="./stats.svg" alt="Estatísticas do GitHub"/>
 </p>
+
+<p align="center"><i>Sinta-se à vontade para conectar, colaborar ou conhecer meus projetos!</i></p>
