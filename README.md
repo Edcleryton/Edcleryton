@@ -6,7 +6,6 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edcleryton.gabriel@gmail.com)
 [![GitHub Followers](https://img.shields.io/github/followers/edcleryton?style=for-the-badge&logo=github&color=333&logoColor=white&label=Seguidores)](https://github.com/edcleryton?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/edcleryton?style=for-the-badge&logo=github&color=333&logoColor=white&label=Estrelas)](https://github.com/edcleryton?tab=repositories&sort=stargazers)
-![GitHub Workflow Status](https://github.com/Edcleryton/Edcleryton/actions/workflows/stats.yml/badge.svg)
 
 ---
 
