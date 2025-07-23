@@ -70,7 +70,6 @@ Python, JavaScript, Selenium, Cypress, Postman, JMeter, K6, Cucumber, Gherkin, G
 
 ## 📫 Contato
 
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edcleryton-silva/) [https://www.linkedin.com/in/edcleryton-silva/](https://www.linkedin.com/in/edcleryton-silva/)
 
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571992748833) (71) 9 9274-8833
