@@ -51,8 +51,8 @@ Python, JavaScript, Selenium, Cypress, Postman, JMeter, K6, Cucumber, Gherkin, G
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
-  <img height="180em" src="https://github-stats-XXXXX.vercel.app/api?username=edcleryton&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-stats-XXXXX.vercel.app/api/top-langs/?username=edcleryton&layout=compact&langs_count=10&theme=gruvbox&count_private=true"/>
+  <img height="180em" src="https://github-stats-pink-seven.vercel.app/api?username=edcleryton&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-stats-pink-seven.vercel.app/api/top-langs/?username=edcleryton&layout=compact&langs_count=10&theme=gruvbox&count_private=true"/>
 </div>
 
 ---
