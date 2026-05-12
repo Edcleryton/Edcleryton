@@ -95,16 +95,9 @@ Tenho experiência sólida em automação E2E com **Cypress, Selenium e Playwrig
 
 ## 📊 Estatísticas do GitHub
 
-## 📊 Estatísticas Gerais (Real-time)
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edcleryton&show_icons=true&theme=gruvbox&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edcleryton&layout=compact&theme=gruvbox"/>
-</div>
-
-## 📈 Métricas Avançadas (GitHub Actions)
-<div align="center">
-  <!-- Esta imagem será gerada automaticamente pelo seu workflow -->
-  <img src="github-metrics.svg" alt="GitHub Metrics" />
+  <img src="github-stats.svg" alt="Estatísticas Gerais" width="45%">
+  <img src="github-metrics.svg" alt="Métricas Avançadas" width="45%">
 </div>
 
 ---
