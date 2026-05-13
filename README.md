@@ -99,7 +99,10 @@ Tenho experiência sólida em automação E2E com **Cypress, Selenium e Playwrig
 ## 📊 Estatísticas
 
 
-
+<div align="center">
+  <img src="github-stats.svg" alt="Estatísticas Gerais" width="48%">
+  <img src="github-metrics.svg" alt="Linguagens Favoritadas" width="48%">
+</div>
 
 ---
 
