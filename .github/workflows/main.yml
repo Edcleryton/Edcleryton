@@ -12,24 +12,31 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # CARD 1: Estatísticas Gerais (Estilo image_2bc99a.png)
-      - name: GitHub Stats Card
+      # Imagem 1: Estatísticas Gerais (Estilo das imagens escuras/coloridas)
+      - name: Generate Stats Card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=edcleryton&show_icons=true&theme=gruvbox&include_all_commits=true&hide_rank=false
+          options: username=edcleryton&show_icons=true&theme=radical&include_all_commits=true
           path: github-stats.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
-      # CARD 2: Linguagens das Star Lists (Estilo image_2c1f77.png)
-      - name: Star Lists Languages
+      # Imagem 2: Apenas as Linguagens das Star Lists (Sem foto, sem cabeçalho)
+      - name: Generate Star Lists Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: edcleryton
           filename: github-metrics.svg
-          base: "" # Remove o cabeçalho para focar apenas na lista
+          base: "" # O segredo está aqui: o valor vazio remove o cabeçalho com sua foto e bio
           plugin_starlists: yes
           plugin_starlists_languages: yes
-          plugin_starlists_limit: 1
-          plugin_languages: no # Desativa as linguagens globais para focar apenas nas listas
+
+      # Salva os dois arquivos limpos no repositório
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add *.svg
+          git commit -m "QA Fix: Isolar Stats e Star Lists" || exit 0
+          git push
