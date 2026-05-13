@@ -87,13 +87,16 @@ Tenho experiência sólida em automação E2E com **Cypress, Selenium e Playwrig
 
 ## 🚀 Projetos em Destaque
 
-- [**IJJ_PROJETO_FINAL_DE_CURSO**](https://github.com/Edcleryton/IJJ_PROJETO_FINAL_DE_CURSO): Sistema de estoque com testes manuais e automatizados usando Selenium.
-- [**IJJ_TRABALHO_FINAL_PYTHON**](https://github.com/Edcleryton/IJJ_TRABALHO_FINAL_PYTHON): Scripts de automação de testes em Python.
-- [**mentoria_testes_desafio_03**](https://github.com/Edcleryton/mentoria_testes_desafio_03): Desafios de automação, documentação e análise de bugs.
+- [**Scale-UX-Quality-Beedoo**](https://github.com/Edcleryton/DESAFIO-QA-BEEDOO-2026): Automação voltada para alta escalabilidade e UX crítica em plataformas de comunicação corporativa que atendem grandes players como Globoplay.
+- [**Corporate-Data-Integrity-Challenge**](https://github.com/Edcleryton/betalent_chalenge): Validação de algoritmos complexos e integridade de dados utilizando **TypeScript**, garantindo a precisão em sistemas de psicometria.
+- [**Security-Auth-Testing-Framework**](https://github.com/Edcleryton/autenticator_testes_automatizados): Framework focado em segurança, com manipulação rigorosa de **tokens JWT**, cookies e fluxos de autenticação para pesquisas cadastrais.
+- [**Inventory-E2E-Automation-System**](https://github.com/Edcleryton/IJJ_PROJETO_FINAL_DE_CURSO): Automação End-to-End robusta com **Python** e **Selenium**, implementando o padrão **Page Object Model (POM)** para gestão de estoque.
+- [**Agile-Process-Simulation**](https://github.com/Edcleryton/sprint_agil): Modelagem técnica de processos ágeis, simulando cerimônias de **Scrum**, estimativas e a cultura de qualidade dentro do ciclo de vida de software.
+- [**Quality-Analysis-Bug-Reporting**](https://github.com/Edcleryton/mentoria_testes_desafio_03): Foco em documentação estratégica, análise de bugs e resolução de desafios técnicos em ecossistemas **JavaScript**.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas
 
 <div align="center">
   <img src="github-stats.svg" alt="Estatísticas Gerais" width="48%">
