@@ -2,6 +2,9 @@ name: GitHub Stats and Metrics
 on:
   schedule: [{cron: "0 3 * * *"}]
   workflow_dispatch:
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true # Resolve a depreciação do Node.js 20
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -10,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Estágio 1: Estatísticas Gerais (Foco em Atividade e Commits)
+      # Estatísticas de Impacto (Focado em Commits e Atividade Real)
       - name: GitHub Stats
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -19,7 +22,7 @@ jobs:
           path: github-stats.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
-      # Estágio 2: Métricas Avançadas (Foco em Linguagens e Hábitos de QA)
+      # Métricas de Engenharia (Foco em JS, TS, Python e Habits)
       - name: Advanced Metrics
         uses: lowlighter/metrics@latest
         with:
@@ -29,8 +32,8 @@ jobs:
           base: header, repositories
           config_timezone: America/Bahia
           plugin_languages: yes
-          plugin_languages_ignored: html, css
+          plugin_languages_ignored: html, css, scss, roff # Filtra o que não é automação/lógica
           plugin_languages_details: percentage
           plugin_habits: yes
           plugin_habits_charts: yes
-          plugin_lines: yes
+          plugin_lines: yes # Exibe o volume de código gerenciado
