@@ -23,9 +23,9 @@
 
 ## 📝 Sobre mim
 
-Analista de QA com ~3 anos de experiência em testes manuais e automatizados para aplicações **web, mobile e APIs REST**. Iniciei como freelancer em plataformas de crowdtesting (uTest, Testio, Testerwork) em 2023, e desde então venho atuando em empresas de tecnologia e SaaS em ambientes ágeis (Scrum/Kanban).
+Analista de QA com ~3 anos de experiência em testes manuais e automatizados para aplicações **web, mobile e APIs REST**. Iniciei como freelancer em plataformas de crowdtesting (uTest, Testio, Testerwork), e hoje atuo em ambientes ágeis (Scrum/Kanban) focando em construir qualidade desde o "Shift-Left".
 
-Tenho experiência sólida em automação E2E com **Cypress, Selenium e Playwright**, testes de API com **Postman**, e exploração de automação mobile com **Maestro Studio** e **Robot Framework + Appium**. Gosto de construir qualidade desde o início, colaborar com devs e criar processos que tornam as entregas mais rápidas e confiáveis.
+Tenho experiência sólida em automação E2E com **Playwright, Cypress e Selenium**, além de testes de API com **Postman/Newman** e integração contínua com **GitHub Actions**. Meu foco é reduzir o tempo de regressão e garantir entregas seguras através de arquiteturas de teste escaláveis, também tenho expertise com automação mobile com **Maestro Studio** e **Robot Framework + Appium**. Gosto de construir qualidade desde o início, colaborar com devs e criar processos que tornam as entregas mais rápidas e confiáveis.
 
 ---
 
@@ -87,10 +87,12 @@ Tenho experiência sólida em automação E2E com **Cypress, Selenium e Playwrig
 
 ## 🚀 Projetos em Destaque
 
-- [**Corporate-Data-Integrity-Challenge**](https://github.com/Edcleryton/betalent_chalenge): Validação de algoritmos complexos e integridade de dados utilizando **TypeScript**, garantindo a precisão em sistemas de psicometria.
-- [**Scale-UX-Quality-Beedoo**](https://github.com/Edcleryton/DESAFIO-QA-BEEDOO-2026): Automação voltada para alta escalabilidade e UX crítica em plataformas de comunicação corporativa que atendem grandes players como Globoplay.
-- [**Inventory-E2E-Automation-System**](https://github.com/Edcleryton/IJJ_PROJETO_FINAL_DE_CURSO): Automação End-to-End robusta com **Python** e **Selenium**, implementando o padrão **Page Object Model (POM)** para gestão de estoque.
-- [**Quality-Analysis-Bug-Reporting**](https://github.com/Edcleryton/mentoria_testes_desafio_03): Foco em documentação estratégica, análise de bugs e resolução de desafios técnicos em ecossistemas **JavaScript**.
+   - [**BeTalent: Automação Híbrida UI & API**](https://github.com/Edcleryton/betalent_chalenge): Suíte de testes com **Playwright (TS)** e **Newman**. Implementação de 49 testes de UI e 38 de API com padrões **POM**,isolamento de sessão (`storageState`) e testes de **Acessibilidade (WCAG)** integrados ao CI/CD.
+- [**Beedoo: Estratégia de QA e Bug Hunting**](https://github.com/Edcleryton/DESAFIO-QA-BEEDOO-2026): Análise estratégica e testes exploratórios em plataforma LMS. Documentação detalhada de 17 bugs críticos com análise de
+      causa raiz via **Network tab** e vulnerabilidades de segurança.
+- [**Inventory: Automação E2E com BDD (IJJ)**](https://github.com/Edcleryton/IJJ_PROJETO_FINAL_DE_CURSO): Garantia de qualidade para sistema de estoque utilizando **Python e Selenium** com **Behave (BDD/Gherkin)**. Foco em
+      aproximar a linguagem técnica da de negócio através de cenários legíveis.
+- [**Login API: Testes de Integração e Segurança**](https://github.com/Edcleryton/mentoria_testes_desafio_03): Desenvolvimento e teste de API de autenticação com **Node.js, Mocha, Chai e Supertest**. Cobertura de 70 testes focados em **JWT**, hashing de senhas e proteção de rotas.
 
 ---
 
@@ -104,6 +106,7 @@ Tenho experiência sólida em automação E2E com **Cypress, Selenium e Playwrig
 
 ## 🏅 Certificações & Cursos
 
+- ✅ **Mentoria de Testes 2.0 – Júlio de Lima**
 - ✅ Postman API Fundamentals – Postman Academy
 - ✅ Automação de Testes com Selenium – Udemy
 - ✅ Accredited Software Testing Fundamentals – AICS®
