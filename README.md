@@ -44,7 +44,7 @@ Tenho experiência sólida em automação E2E com **Playwright, Cypress e Seleni
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-**Automação Mobile **
+**Automação Mobile**
 
 ![Maestro](https://img.shields.io/badge/-Maestro-000000?style=for-the-badge&logoColor=white)
 ![Appium](https://img.shields.io/badge/-Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
