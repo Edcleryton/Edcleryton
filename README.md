@@ -79,7 +79,7 @@ Tenho experiência sólida em automação E2E com **Playwright, Cypress e Seleni
 |---|---|
 | 🧪 Cobertura de fluxos críticos (E2E) | **100%** |
 | ⚡ Redução no tempo de regressão manual | **70%** |
-| 🐛 Taxa de aceitação de bugs (Visie) | **95%** |
+| 🐛 Taxa de aceitação de bugs (Visie) | **97%** |
 | 🐛 Taxa de aceitação de bugs (Pontotel) | **95%** |
 | 🏗️ Suítes de automação construídas do zero | **2** |
 
