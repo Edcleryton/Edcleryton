@@ -87,7 +87,7 @@ Tenho experiência sólida em automação E2E com **Playwright, Cypress e Seleni
 
 ## 🚀 Projetos em Destaque
 
-   - [**BeTalent: Automação Híbrida UI & API**](https://github.com/Edcleryton/betalent_chalenge): Suíte de testes com **Playwright (TS)** e **Newman**. Implementação de 49 testes de UI e 38 de API com padrões **POM**,isolamento de sessão (`storageState`) e testes de **Acessibilidade (WCAG)** integrados ao CI/CD.
+   - [**QA-Automation-Lab: Automação Híbrida UI & API**](https://github.com/Edcleryton/betalent_chalenge): Suíte de testes com **Playwright (TS)** e **Newman**. Implementação de 49 testes de UI e 38 de API com padrões **POM**,isolamento de sessão (`storageState`) e testes de **Acessibilidade (WCAG)** integrados ao CI/CD.
 - [**Beedoo: Estratégia de QA e Bug Hunting**](https://github.com/Edcleryton/DESAFIO-QA-BEEDOO-2026): Análise estratégica e testes exploratórios em plataforma LMS. Documentação detalhada de 17 bugs críticos com análise de
       causa raiz via **Network tab** e vulnerabilidades de segurança.
 - [**Inventory: Automação E2E com BDD (IJJ)**](https://github.com/Edcleryton/IJJ_PROJETO_FINAL_DE_CURSO): Garantia de qualidade para sistema de estoque utilizando **Python e Selenium** com **Behave (BDD/Gherkin)**. Foco em
